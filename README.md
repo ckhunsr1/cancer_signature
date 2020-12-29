@@ -1,4 +1,4 @@
-# Cancer Signature Project
+# Cancer Signatures
 
 ## *aapc_past folder*
 **Objective:** Calculating Average Annual Percent Change (AAPC) using data directly abstracted from SEER database
