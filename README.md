@@ -15,3 +15,6 @@
 ## *aapc_future folder*
 **Objective:** Calculating Average Annual Percent Change (AAPC) using past data directly abstracted from SEER database and future data obtained from age-period-cohort models
 - **aapc_calculation.R:** This file calculates AAPC using the output form apc_forecast.R. We utilize *segmented* package to calculate AAPC as Joinpoint Regression Program is not executable on Linux platform (unable to perform parallel computing). 
+
+## *functions folder*
+**Objective:** Various functions required for codes above to run.
